@@ -7,7 +7,7 @@
     android:paddingEnd="16dp">
 
     <TextView
-        android:id="@+id/note"
+        android:id="@+id/text"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="example"
